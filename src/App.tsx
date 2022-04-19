@@ -8,10 +8,10 @@ import RenderProps from "./RenderProps"
 function App() {
   return (
     <div className="App">
-      <RenderProps />
-      <ProxyComponent />
-      <LayoutComponent />
-      <ControlledInput />
+      {/* <RenderProps /> */}
+      {/* <ProxyComponent /> */}
+      {/* <LayoutComponent /> */}
+      {/* <ControlledInput /> */}
       <CompoundComponent />
     </div>
   )
